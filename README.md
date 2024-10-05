@@ -1,7 +1,4 @@
 ## Weapon Detection
-
-#A machine learning model for weapon detection.
-
 Requirements:
 
 OpenCV
