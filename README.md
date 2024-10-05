@@ -1,6 +1,6 @@
-# Weapon Detection
+## Weapon Detection
 
-A machine learning model for weapon detection.
+#A machine learning model for weapon detection.
 
 Requirements:
 
