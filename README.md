@@ -1,8 +1,11 @@
 ## Weapon Detection
 Requirements:
 
+
 OpenCV
+
 numpy
+
 Python version 3.11
 
 Click here to download weight file
