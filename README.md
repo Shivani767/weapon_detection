@@ -1,4 +1,4 @@
-# weapon_detection
+# Weapon Detection
 
 A machine learning model for weapon detection.
 
