@@ -1,9 +1,13 @@
 # weapon_detection
 
 A machine learning model for weapon detection.
+
 Requirements:
+
 OpenCV
+
 numpy
+
 Python version 3.11
 
 click here to download weight file
